@@ -4,7 +4,7 @@ This repository contains a Power BI dashboard that provides detailed insights in
 
 ## Dashboard Overview
 
-![Revenue Insights in Hospitality Domain](./Revenue_Insights_in_Hospitality_Domain.png)
+![Revenue Insights in Hospitality Domain](./Revenue_Insights_in_Hospitality_Domain.pdf)
 
 ### Key Metrics Visualized:
 
@@ -33,7 +33,7 @@ This repository contains a Power BI dashboard that provides detailed insights in
 
 ## How to Access the Dashboard
 
-The dashboard is available in the `Revenue_Insights_in_Hospitality_Domain.pbix` file, which can be opened using Power BI Desktop. Additionally, a PDF version of the dashboard is available for quick reference.
+The dashboard is available in the `./Revenue_Insights_in_Hospitality_Domain.pbix` file, which can be opened using Power BI Desktop. Additionally, a PDF version of the dashboard is available for quick reference.
 
 ### PDF Report
 
