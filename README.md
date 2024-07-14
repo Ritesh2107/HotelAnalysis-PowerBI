@@ -57,4 +57,4 @@ For any queries or feedback, please contact [Ritesh Kulkarni](mailto:kulkarni578
 
 ---
 
-Thank you for checking out this project! We hope you find the insights useful and actionable.
+Thank you for checking out this project! I hope you find the insights useful and actionable.
